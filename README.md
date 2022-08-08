@@ -1,2 +1,2 @@
 #first_app
-Some description of my project !
+Some description of my project !!
